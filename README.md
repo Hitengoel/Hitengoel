@@ -9,4 +9,4 @@
 - ⚡ Fun fact: ...Core member Srm University, Sonepat
 - 💻 Intern at Verge Techfest@SrmUniversity,Sonepat
 - 👩‍🎓   My Resume[Hiten Goel.(Resume).pdf](https://github.com/Hitengoel/hitengoel/files/7022099/Hiten.Goel.Resume.pdf)
-- My youtube channel- https://www.youtube.com/hiten'scorner
+- My youtube channel- https://www.youtube.com/channel/UCCv5jZ3K08_tTxp8khsVXTw
