@@ -15,5 +15,7 @@
 - 📫 How to reach me: ...hitengoel01@gmail.com
 - ⚡ Fun fact: ...Core member Srm University, Sonepat
 - 💻 Intern at Verge Techfest@SrmUniversity,Sonepat
-- 👩‍🎓   My Resume
+- 👩‍🎓   My Resume-[Resume.-(Hiten Goel).pdf](https://github.com/Hitengoel/hitengoel/files/7229185/Resume.-.Hiten.Goel.pdf)
+
+
 -  My youtube channel- https://www.youtube.com/channel/UCCv5jZ3K08_tTxp8khsVXTw
