@@ -8,13 +8,13 @@
 
 
 - 👦 I'm @hitengoel
-- 🔭 I’m currently working on ...web devlopment 
-- 🌱 I’m currently learning ...python
+- 🔭 I’m currently working on ...humanoid robot 
+- 🌱 I’m currently learning ...python(advanced)
 - 👯 I’m looking to collaborate on ...arduino projects
-- 🤔 I’m looking for help with ...robotics 
+- 🤔 I’m looking for help with ...internships 
 - 📫 How to reach me: ...hitengoel01@gmail.com
-- ⚡ Fun fact: ...Core member Srm University, Sonepat
-- 💻 Intern at Verge Techfest@SrmUniversity,Sonepat
+- ⚡ Fun fact: ...Core member Centre for Innovation Incubation and Entrepreneurship Srm University, Sonepat
+- 💻 Ex-Intern at Verge Techfest@SrmUniversity-Sonepat, E-Intern at Dysmech Control Systems
 - 👩‍🎓   My Resume-[Resume.-(Hiten Goel).pdf](https://github.com/Hitengoel/hitengoel/files/7229185/Resume.-.Hiten.Goel.pdf)
 
 
